@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+		
+      <class name="texvalley_testcases.Texvalley_base_scrolling"/>
+      <class name="texvalley_testcases.Texvalley_Register_module"/>
+      <class name="texvalley_testcases.Texvalley_visitor_module"/>
+      <class name="texvalley_testcases.Texvalley_Buyer_module"/>
+      <class name="texvalley_testcases.Texvalley_Exhibitor_module"/>
+      <class name="texvalley_testcases.Texvalley_Awards_Nomination_module"/>
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
